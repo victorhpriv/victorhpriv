@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Hugo 👋🏼
 
-Sou Estudante de Sistemas de Informação e desenvolvedor web. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis.
+Sou estudante de Sistemas de Informação e desenvolvedor web. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis.
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhpriv&show_icons=true&theme=radical&locale=pt-br)
 
